@@ -1,0 +1,20 @@
+{
+    "name": "packard/sozo-oop-booking-template",
+    "description": "basic hotel booking app using PHP",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/",
+            "App\\Class\\": "src/classes"
+        }
+    },
+    "authors": [
+        {
+            "name": "Evelyne",
+            "email": "evelynekayisingaglow@gmail.com"
+        }
+    ],
+    "require": {
+        "godruoyi/php-snowflake": "^2.0"
+    }
+}
