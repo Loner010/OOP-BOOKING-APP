@@ -1,5 +1,5 @@
 {
-    "name": "packard/sozo-oop-booking-template",
+    "name": "packard/Oop-booking",
     "description": "basic hotel booking app using PHP",
     "type": "project",
     "autoload": {
